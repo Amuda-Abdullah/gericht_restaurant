@@ -74,7 +74,7 @@
 }
 
 .app__gallery-images_arrows {
-    width: 100%;
+    width: 95%;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -84,8 +84,8 @@
     bottom: 5%;
 
 }
-.app__gallery-arrows-icon {
-    color: var(--color-golden);
+.gallery__arrow-icon {
+    color: var(--color-white);
     font-size: 2rem;
     cursor: pointer;
     background-color: var(--color-black);
